@@ -1,0 +1,22 @@
+---
+title: ryftchen's page
+author: ryftchen
+email: ""
+url: https://ryftchen.github.io
+baseurl: ""
+description: ""
+permalink: /:slug.html
+favicon: favicon.svg
+
+remote_theme: riggraz/no-style-please
+theme_config:
+  appearance: auto
+  back_home_text: ".."
+  date_format: "%Y-%m-%d"
+  show_description: false
+sass:
+  style: :compressed
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+...

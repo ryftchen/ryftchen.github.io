@@ -1,0 +1,18 @@
+---
+entries:
+  - title: home
+    url: .
+
+  - title: posts
+    post_list:
+      limit: 1
+      show_more: true
+      show_more_text: more archives...
+      show_more_url: archive
+
+  - title: about
+    url: about
+
+  - title: rss
+    url: feed.xml
+...
